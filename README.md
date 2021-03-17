@@ -3,7 +3,7 @@
 Prosta aplikacja do zarządzania użytkownikami. 
 Przy tworzeniu nowego użytkownika jest zastosowana podstawowa walidacja w regex
 
-**[Tutaj można ją wypróbować]**(https://codesandbox.io/s/usermanager-forked-5xygl)
+[Tutaj można ją wypróbować](https://codesandbox.io/s/usermanager-forked-5xygl)
 
 #Można w niej:
   - Dodać użytkownika 
