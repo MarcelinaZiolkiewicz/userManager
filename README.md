@@ -6,7 +6,7 @@ Cały prokjekt jest oparty o React i useContext.
 
 [Tutaj można ją wypróbować](https://codesandbox.io/s/usermanager-forked-5xygl)
 
-###Można w niej:
+### Można w niej:
   - Dodać użytkownika 
   - Edytować jego dane
   - Dodawać zadania
